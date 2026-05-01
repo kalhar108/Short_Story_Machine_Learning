@@ -11,7 +11,7 @@
 ## 📋 Assignment Overview
 
 * 1. Medium Article Link: *(add after publishing — see `medium_article.md` in this repo for the full draft, ready to paste)*
-* 2. Slide Deck (Google Slides / SlideShare): *(add after uploading — `swallowcode_short_story.pptx` and `swallowcode_short_story.pdf` are in this repo)*
+* 2. Slide Deck (https://docs.google.com/presentation/d/1gT7fIRh8qiDTqAfgocJQ7a2nDc8e3OpF81UuBugR2FQ/edit?usp=drivesdk): *(add after uploading — `swallowcode_short_story.pptx` and `swallowcode_short_story.pdf` are in this repo)*
 * 3. YouTube Video Link: *(add after recording — see `video_script.md` for the 19-minute script with per-slide speaker notes)*
 
 This assignment presents a comprehensive analysis of **SwallowCode and SwallowMath** — two openly-licensed pre-training corpora built by Tokyo Tech and AIST that close the "data quality gap" between open and closed-data LLMs. Within a fixed 50-billion-token continual pre-training budget, swapping the code dataset alone boosts Llama-3.1-8B by **+17.0 points on HumanEval** and **+16.1 points on HumanEval+** versus the previous open-source state of the art (Stack-Edu); swapping the math dataset adds **+12.4 on GSM8K** and **+7.6 on MATH**.

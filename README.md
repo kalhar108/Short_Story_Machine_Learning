@@ -10,7 +10,7 @@
 
 ## 📋 Assignment Overview
 
-* 1. Medium Article Link: *(add after publishing — see `medium_article.md` in this repo for the full draft, ready to paste)*
+* 1. Medium Article Link: https://medium.com/@kalharpatel2002/stop-filtering-start-rewriting-how-swallowcode-and-swallowmath-are-quietly-changing-pre-training-9af7d6e6ad83
 * 2. Slide Deck (https://docs.google.com/presentation/d/1gT7fIRh8qiDTqAfgocJQ7a2nDc8e3OpF81UuBugR2FQ/edit?usp=drivesdk): *(add after uploading — `swallowcode_short_story.pptx` and `swallowcode_short_story.pdf` are in this repo)*
 * 3. YouTube Video Link: *(add after recording — see `video_script.md` for the 19-minute script with per-slide speaker notes)*
 
